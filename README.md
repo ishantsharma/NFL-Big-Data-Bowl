@@ -1,5 +1,5 @@
 # NFL-Big-Data-Bowl
-A machine learning model which predicted the number of yards a rushing player would gain on a given play. 
+A machine learning model which predicted the number of yards a rushing player would gain on a given play. \
 Team: Ishant Sharma and Keshuv Bagaria
 
 __Understanding the Dataset:__\
